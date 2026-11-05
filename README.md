@@ -129,8 +129,8 @@ Alongside fullstack work, I explore **machine learning in Python** – my engine
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PiotrSmola&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrSmola&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PiotrSmola&theme=github_dark" alt="GitHub stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PiotrSmola&theme=github_dark" alt="Top languages" />
 </div>
 
 ---
