@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:1E40AF,100:0891B2&height=200&section=header&text=Piotr%20Smo%C5%82a&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Fullstack%20Developer%20%7C%20Computer%20Science%20Master%27s%20Student%20%7C%20Rzesz%C3%B3w%2C%20Poland&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Piotr Smoła – Fullstack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,45:1E40AF,100:0891B2&height=200&section=header&text=Piotr%20Smo%C5%82a&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkle&desc=Fullstack%20Developer%20%7C%20Computer%20Science%20Master%27s%20Student%20%7C%20Rzesz%C3%B3w%2C%20Poland&descSize=16&descAlignY=58&descAlign=50" width="100%" alt="Piotr Smoła – Fullstack Developer" />
 </div>
 
 <div align="center">
@@ -10,10 +10,6 @@
   <a href="https://www.linkedin.com/in/piotr-smo%C5%82a-181aab344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="42" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Open_to_work-2EA043?style=for-the-badge&labelColor=0D1117" height="42" alt="Open to work" />
 </div>
-
-<!-- Portfolio – gdy będziesz miał link, odkomentuj i podmień adres:
-  <a href="https://TWOJE-PORTFOLIO.pl"><img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
--->
 
 <div align="center">
   <img src="https://img.shields.io/github/followers/PiotrSmola?style=for-the-badge&logo=github&label=Followers&labelColor=0D1117&color=1E40AF" alt="GitHub followers" />
@@ -139,10 +135,6 @@ Alongside fullstack work, I explore **machine learning in Python** – my engine
 
 <div align="center">
   <a href="https://www.linkedin.com/in/piotr-smo%C5%82a-181aab344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="42" alt="LinkedIn" /></a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891B2,55:1E40AF,100:0D1117&height=120&section=footer" width="100%" alt="" />
 </div>
 
 <div align="center">
