@@ -50,8 +50,8 @@ Alongside fullstack work, I explore **machine learning in Python** – my engine
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/PiotrSmola/Job-Board-.NET-Angular">Job Board</a></h3>
-      <p>Job board with offers, applications and JWT authentication. Runs as three Docker containers (MySQL, API, frontend) and ships with unit and integration tests.</p>
-      <p><b>Stack:</b> ASP.NET Core · Angular · TypeScript · MySQL · Docker · xUnit</p>
+      <p>Job board with candidate, employer and admin roles: faceted offer search, company profiles with photo galleries, applications with files and status history, employer statistics with CSV export, and admin verification and photo moderation. Transactional e-mail outbox, S3 file storage, rate limiting and ownership checks on every resource.</p>
+      <p><b>Stack:</b> ASP.NET Core 9 · EF Core · Angular 22 · Angular Material · TypeScript · MySQL · SeaweedFS (S3) · Docker · xUnit · Playwright</p>
     </td>
   </tr>
   <tr>
@@ -62,8 +62,8 @@ Alongside fullstack work, I explore **machine learning in Python** – my engine
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/PiotrSmola/Employee-Management-System">Employee Management System</a></h3>
-      <p>Employee, department and salary management with employment history, dashboard analytics, filtering and PDF report exports.</p>
-      <p><b>Stack:</b> Laravel 11 · PHP · Livewire · MySQL · Bootstrap · Docker</p>
+      <p>HR platform on the MySQL “employees” sample dataset (around 300k employees): directory and profiles with full employment history, plus hiring, transfers, title and salary changes, terminations and rehires – every change landing in an audit log with before-and-after values. Four roles with department-scoped managers, workforce and compensation reports for any past month, background CSV / XLSX / PDF exports, import with a validation preview and a read-only REST API.</p>
+      <p><b>Stack:</b> Laravel 12 · PHP 8.3 · Livewire · MySQL · Bootstrap · Chart.js · Sanctum · Docker</p>
     </td>
   </tr>
   <tr>
@@ -84,7 +84,7 @@ Alongside fullstack work, I explore **machine learning in Python** – my engine
 
 - **[Cocktail Lab](https://github.com/PiotrSmola/cocktail-lab)** – cocktail encyclopedia with pantry matching: “what can I make from what I have?” · Vue · TypeScript
 - **[Vue-Laravel Weather App](https://github.com/PiotrSmola/Vue-Laravel-Weather-App)** – weather app with measurement history and charts · Laravel · Vue
-- **[Online Store](https://github.com/PiotrSmola/Online-Store-React-Laravel)** – e-commerce storefront and API · React · Laravel · MySQL
+- **[Online Store](https://github.com/PiotrSmola/Online-Store-React-Laravel)** – full-stack clothing store: catalog with stock per size and colour, a cart saved to the account and merged at login, coupons, a simulated card payment, PDF invoices, reviews from verified buyers only and a complete admin panel, with 650+ backend and 300+ frontend tests · Laravel 13 · React 19 · Tailwind CSS · MySQL · Docker
 - **[TaskApp](https://github.com/PiotrSmola/TaskApp-JavaFX)** – task management for IT teams with user roles and reporting · JavaFX
 - **[Fetal Health Classification](https://github.com/PiotrSmola/fetal-health-classification)** – ML classification project · Python · Jupyter
 - **[DataFusion App](https://github.com/PiotrSmola/DataFusion-App-Python)** – data warehousing project · Python
@@ -111,7 +111,7 @@ Alongside fullstack work, I explore **machine learning in Python** – my engine
   </tr>
   <tr>
     <td align="right"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="MySQL, PostgreSQL" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=dark" alt="MySQL, PostgreSQL, MongoDB, Redis" /></td>
   </tr>
   <tr>
     <td align="right"><b>Tools &amp; ML</b></td>
