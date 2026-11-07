@@ -74,8 +74,8 @@ Alongside fullstack work, I explore **machine learning in Python** – my engine
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/PiotrSmola/energy-clock">Energy Clock</a></h3>
-      <p>Tool that reads Polish day-ahead electricity prices (PSE, 15-minute intervals) and tells you when to run an appliance to pay less – and when the grid is cleanest. Scheduled API ingestion, database-side statistics, e-mail alerts and CSV export.</p>
-      <p><b>Stack:</b> Python · Django · Celery · Redis · HTMX · Alpine.js · pytest · Docker</p>
+      <p>Tool that reads Polish day-ahead electricity prices (PSE, 15-minute intervals) and tells you when to run an appliance to pay less – and when the grid is cleanest. Now with a plain-language assistant: a local LLM that calls the planner, price and tariff calculations as tools, and answers legal questions by searching the Polish Energy Law with article citations (RAG: hybrid embedding and keyword search over the indexed act, measured with a retrieval eval, in SQLite – no vector database and no agent framework).</p>
+      <p><b>Stack:</b> Python 3.13 · Django 5.2 · Celery · Redis · SQLite · HTMX · Alpine.js · LLM tool calling (Gemma, LM Studio) · RAG (bge-m3 embeddings) · pytest · Docker</p>
     </td>
   </tr>
 </table>
