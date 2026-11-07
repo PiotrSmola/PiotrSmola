@@ -122,21 +122,6 @@ Alongside fullstack work, I explore **machine learning in Python** – my engine
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PiotrSmola&theme=github_dark" alt="GitHub stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PiotrSmola&theme=github_dark" alt="Top languages" />
-</div>
-
----
-
-## 🤝 Connect with me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/piotr-smo%C5%82a-181aab344/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" height="42" alt="LinkedIn" /></a>
-</div>
-
 <div align="center">
   <b>⭐ If you find any of my projects useful, a star means a lot.</b>
 </div>
